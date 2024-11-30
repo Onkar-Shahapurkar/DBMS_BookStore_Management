@@ -111,3 +111,12 @@ To get started, follow these steps to create the required tables in MySQL:
       Contact VARCHAR(15),
       Address TEXT
   );
+```
+
+5. **Verify Table Creation:**
+  Use the SHOW TABLES; command to confirm that all tables are successfully created:
+   ```sql
+    SHOW TABLES;
+
+6. **Start Using the Database:**
+  You can now populate the tables with data and use them for managing your bookstore operations.
